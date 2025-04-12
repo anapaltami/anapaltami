@@ -6,7 +6,7 @@ I'm a developer who loves blending creativity with code. I'm currently working o
 
 - 🐉 [**Monster Dex**](https://github.com/anapaltami/pf2_mondex) – A desktop app to explore and compare Pathfinder monster data. Designed to simplify GM prep and make browsing monster traits way less painful.
 - 🃏 **StateCraftCG** – A modern digital card game with realistic physics, AI opponents, and multiplayer support. Built in Unity with modular mechanics for future expansion.
-- 🌾 **Farm Clicker** – A mobile idle game with zoomable UI and tool-based progression. Developed in Java with Android Studio.
+- 🌾 [**Farm Clicker**](https://github.com/Enchanted-Pixelwork-Studios/FarmClicker) – A mobile idle game with zoomable UI and tool-based progression. Developed in Java with Android Studio.
 - 🌌 **Custom Start Tab** – A personalized browser homepage inspired by Momentum Dash. Featuring space themes, quote decks, Pomodoro timers, offline-first storage, and more.
 - 🌐 **Portfolio Website** – A minimalist but powerful site to showcase my work, built from scratch using React, PostgreSQL, GitHub Pages, and Heroku.
 
